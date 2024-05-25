@@ -32,8 +32,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Home - ${siteConfig.title}`}
+      description="Misskeyと連携可能な絵文字MOD「MissEmoji」の公式ドキュメントです。">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
