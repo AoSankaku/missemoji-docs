@@ -9,7 +9,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'MissEmoji Docs',
-  tagline: '絵文字MOD「MissEmoji」の公式ドキュメントです。',
+  tagline: '【工事中：このサイトおよびMODは工事中です！】Misskeyと連携可能な絵文字MOD「MissEmoji」の公式ドキュメントです。',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
