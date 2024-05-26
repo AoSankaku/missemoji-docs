@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# MissEmojiへようこそ！
+# Missmojiへようこそ！
 
-このページはMissEmojiの公式ドキュメントの1ページ目です。
+このページはMissmojiの公式ドキュメントの1ページ目です。
 
 ## このMODは何？
 
-MissEmojiは、Emojifulのハードフォークです。主にMisskeyサーバーの絵文字をインポートし、Minecraft内で使えるようにすることを主な目的としています。
+Missmojiは、Emojifulのハードフォークです。主にMisskeyサーバーの絵文字をインポートし、Minecraft内で使えるようにすることを主な目的としています。
 
 Misskeyサーバーから絵文字を導入しなくとも、使用することができます。
 
@@ -18,13 +18,17 @@ Misskeyサーバーから絵文字を導入しなくとも、使用すること�
 
 ### 特徴
 
-- **クライアントサイドで動く** - MissEmojiはEmojifulと異なり、クライアントサイドのみで問題なく動作します。
+- **クライアントサイドで動く** - MissmojiはEmojifulと異なり、クライアントサイドのみで問題なく動作します。
 - **サーバーに入れると絵文字を自動で配信** - サーバーにいれると自動で絵文字を配信します。
 - **Emojifulのリソースパックと互換性あり** - Emojifulのリソースパックと互換性があり、正常に動作します。サーバーからリソースパックを配信しても動作します。
 
+### 動作内容
+
+通常、このMODはクライアントサイドで動作します。
+
 ### 互換性のあるMOD
 
-MissEmojiは、以下の絵文字MODと互換性があります。同時に導入した場合、MissEmojiではない方の絵文字のスタイルをデフォルトで優先します。
+Missmojiは、以下の絵文字MODと互換性があります。同時に導入した場合、Missmojiではない方の絵文字のスタイルをデフォルトで優先します。
 
 - [Figura](https://modrinth.com/mod/figura)
 - [Emoji Type](https://modrinth.com/mod/emoji-type)

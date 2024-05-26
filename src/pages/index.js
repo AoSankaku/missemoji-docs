@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            📕 MissEmojiの使い方を見る
+            📕 Missmojiの使い方を見る
           </Link>
         </div>
       </div>
@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`Home - ${siteConfig.title}`}
-      description="Misskeyと連携可能な絵文字MOD「MissEmoji」の公式ドキュメントです。">
+      description="Misskeyと連携可能な絵文字MOD「Missmoji」の公式ドキュメントです。">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

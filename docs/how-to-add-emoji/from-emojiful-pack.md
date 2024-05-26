@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Emojifulのデータパックから
 
-Emojifulのデータパックは、MissEmojiでそのまま読み込むことができます。
+Emojifulのデータパックは、Missmojiでそのまま読み込むことができます。
 
 以下のような構造になっています。
 

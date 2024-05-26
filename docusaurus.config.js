@@ -8,8 +8,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'MissEmoji Docs',
-  tagline: '【工事中：このサイトおよびMODは工事中です！】Misskeyと連携可能な絵文字MOD「MissEmoji」の公式ドキュメントです。',
+  title: 'Missmoji Docs',
+  tagline: '【工事中：このサイトおよびMODは工事中です！】Misskeyと連携可能な絵文字MOD「Missmoji」の公式ドキュメントです。',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'MissEmoji Docs',
+        title: 'Missmoji Docs',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
