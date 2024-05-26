@@ -10,13 +10,24 @@ sidebar_position: 1
 
 `/missmoji client`で始まるコマンドは、自分のプレイ環境にのみ影響を与えます。
 
-基本的に、ほとんどのプレイヤーにとって必要な動作はこちらのコマンドで完結します。
+基本的に、ほとんどのプレイヤー（サーバーに参加する側）にとって必要な動作は、こちらのコマンドで完結します。
 
 ## コマンド一覧
 
-以下のコマンドは、すべて`/missmoji client`で始まります。
+### 確認用
 
-| コマンド  | 動作                          | 使用例                                                                        |
-| --------- | ----------------------------- | ----------------------------------------------------------------------------- |
-| `version` | Modのバージョンを表示します。 | `/missmoji client version`                                                    |
-| `add`     | 絵文字を追加します。          | `/missmoji client add aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa` |
+#### `/missmoji client version`
+
+今入っているMissmojiのバージョンを確認することができます。
+
+#### `/missmoji client list (server/manual/datapack)`
+
+自分が追加した絵文字の一覧を表示します。serverを選択した場合はMisskeyサーバーを、manualを選択した場合はコマンドで追加したものを、datapackを選択した場合はデータパックを表示します。指定しなかった場合はすべてを表示します。
+
+### 絵文字を追加する
+
+:::warning マルチプレイをする場合
+マルチプレイをする際にこの操作を行うと、相手に絵文字の内容が伝わらない可能性が高まります。
+:::
+
+#### `/missmoji client add`
