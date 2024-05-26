@@ -14,7 +14,7 @@ Missmojiは、MisskeyサーバーのURLを指定するだけでMisskey内臓のA
 
 ＜ここに画像が入るであろう＞
 
-あとは画像の取得が始まるため、少し待てば完了します。これだけで完了です。
+あとは画像の取得が始まるため、少し待てば完了します。
 
 ## 絵文字の使用
 
@@ -31,7 +31,7 @@ Missmojiは、MisskeyサーバーのURLを指定するだけでMisskey内臓のA
 絵文字の追加や削除など、Misskeyサーバー上では日々変更があると思います。そういった場合には、
 
 ```
-/missmoji update <diff/all/single> <single -> name>
+/missmoji client update <diff/all/single> <single -> name>
 ```
 
 と入力することで更新が可能です。
