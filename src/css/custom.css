@@ -28,3 +28,14 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.cardDescription_node_modules-\@docusaurus-theme-classic-lib-theme-DocCard-styles-module {
+  display: -webkit-box;
+  word-break: break-word;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  min-height: 2lh;
+  white-space: wrap;
+}
