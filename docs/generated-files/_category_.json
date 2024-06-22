@@ -1,0 +1,8 @@
+{
+  "label": "生成するファイル",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Missmojiが生成するファイルおよびコンフィグについて説明しています。"
+  }
+}
